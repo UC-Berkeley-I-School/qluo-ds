@@ -1,1 +1,1 @@
-# qluo.ds
+# qluo-ds
